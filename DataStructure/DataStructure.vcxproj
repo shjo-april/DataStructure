@@ -37,6 +37,7 @@
     <ClCompile Include="stack_with_linked_list.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="tree_with_linked_list.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7862E0FC-64F7-4F61-9499-46D7E849FC6A}</ProjectGuid>
